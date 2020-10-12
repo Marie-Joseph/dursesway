@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dursesway
+dursesway.so
+dursesway.dylib
+dursesway.dll
+dursesway.a
+dursesway.lib
+dursesway-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.swp

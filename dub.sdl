@@ -1,0 +1,6 @@
+name "dursesway"
+description "Curses Game of Life in D."
+authors "Marie-Joseph"
+copyright "Copyright © 2020, Marie-Joseph"
+license "CC-0"
+dependency "nice-curses" version="~>0.2.5"
